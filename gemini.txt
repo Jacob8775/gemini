@@ -7,4 +7,9 @@ alkaliminer-pa.googleapis.com
 accounts.google.com
 play.google.com
 googleusercontent.com
+# Добавляем общие домены со всеми поддоменами:
+*.google.com
+*.googleapis.com
+*.googleusercontent.com
+*.gstatic.com
 
