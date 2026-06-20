@@ -1,5 +1,10 @@
-# Google Gemini
-://google.com
-://googleapis.com
-ai.google.dev
+gemini.google.com
+ai.google
+aistudio.google.com
+generativelanguage.googleapis.com
+proactivebackend-pa.googleapis.com
+alkaliminer-pa.googleapis.com
+accounts.google.com
+play.google.com
+googleusercontent.com
 
