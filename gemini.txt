@@ -6,3 +6,11 @@ googleusercontent.com
 lh3.googleusercontent.com
 gstatic.com
 fonts.gstatic.com
+gemini.google.com
+ai.google.dev
+googleapis.com
+googleai.dev
+makersuite.google.com
+deepmind.google
+deepmind.com
+
