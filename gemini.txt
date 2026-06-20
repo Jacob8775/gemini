@@ -1,16 +1,12 @@
-ai.google.com
-ai.google
-generativelanguage.googleapis.com
-alkalimeteor-pa.googleapis.com
-googleusercontent.com
-lh3.googleusercontent.com
-gstatic.com
-fonts.gstatic.com
 gemini.google.com
+ai.google
 ai.google.dev
-googleapis.com
 googleai.dev
+aistudio.google.com
 makersuite.google.com
-deepmind.google
-deepmind.com
+googleapis.com
+googleusercontent.com
+gstatic.com
+google.com
+accounts.google.com
 
