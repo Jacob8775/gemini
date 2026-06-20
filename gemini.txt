@@ -1,12 +1,18 @@
 gemini.google.com
-ai.google
-ai.google.dev
-googleai.dev
 aistudio.google.com
 makersuite.google.com
+ai.google.dev
+google.dev
+google.ai
+
+google.com
+accounts.google.com
+
 googleapis.com
 googleusercontent.com
 gstatic.com
-google.com
-accounts.google.com
+
+oauth2.googleapis.com
+clients6.google.com
+content-push.googleapis.com
 
