@@ -1,0 +1,8 @@
+ai.google.com
+ai.google
+generativelanguage.googleapis.com
+alkalimeteor-pa.googleapis.com
+googleusercontent.com
+lh3.googleusercontent.com
+gstatic.com
+fonts.gstatic.com
