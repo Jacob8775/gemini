@@ -1,6 +1,5 @@
-aistudio.google.com
-gemini.google.com
-generativelanguage.googleapis.com 
-alkalimining-pa.googleapis.com 
-proactivebackend-pa.googleapis.com
+# Google Gemini
+://google.com
+://googleapis.com
+ai.google.dev
 
