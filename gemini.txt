@@ -21,6 +21,29 @@ cloudconfig.googleapis.com
 clientservices.googleapis.com
 clients4.google.com
 
+# Геолокация и определение координат (Критично для Gemini)
+googleapis.com
+maps.googleapis.com
+location.googleapis.com
+
+# Системная авторизация, проверка сессии и токенов безопасности
+accounts.google.ru
+content-autofill.googleapis.com
+securetoken.googleapis.com
+identitytoolkit.googleapis.com
+oauthaccountmanager.googleapis.com
+gshield.google.com
+
+# Firebase и метрики (Gemini фоном шлет туда аналитику сессии)
+firebase.googleapis.com
+firebaseinappmessaging.googleapis.com
+firebaselogging.googleapis.com
+firebaseinstallations.googleapis.com
+
+# Загрузка дополнительных скриптов оптимизации интерфейса
+apis.google.com
+chrome.google.com
+
 # Глобальные маски поддоменов (для подстраховки)
 *.google.com
 *.googleapis.com
