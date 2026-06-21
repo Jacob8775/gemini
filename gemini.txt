@@ -1,3 +1,4 @@
+google.com
 gemini.google.com
 ai.google
 aistudio.google.com
