@@ -44,6 +44,11 @@ firebaseinstallations.googleapis.com
 apis.google.com
 chrome.google.com
 
+1e100.net
+*.1e100.net
+gcr.io
+*.gcr.io
+
 # Глобальные маски поддоменов (для подстраховки)
 *.google.com
 *.googleapis.com
