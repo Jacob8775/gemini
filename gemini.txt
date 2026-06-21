@@ -4,15 +4,24 @@ aistudio.google.com
 generativelanguage.googleapis.com
 proactivebackend-pa.googleapis.com
 alkaliminer-pa.googleapis.com
+alkalimeta-pa.googleapis.com
 accounts.google.com
 play.google.com
 googleusercontent.com
-alkalimeta-pa.googleapis.com
-proactivebackend-pa.googleapis.com
+www.google.com
+www.recaptcha.net
+recaptcha.net
+
+# Системные API авторизации и безопасности
+oauthaccountmanager.googleapis.com
 content-autofill.googleapis.com
 securetoken.googleapis.com
 identitytoolkit.googleapis.com
-# Добавляем общие домены со всеми поддоменами:
+cloudconfig.googleapis.com
+clientservices.googleapis.com
+clients4.google.com
+
+# Глобальные маски поддоменов (для подстраховки)
 *.google.com
 *.googleapis.com
 *.googleusercontent.com
